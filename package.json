@@ -1,7 +1,9 @@
 {
-  "name": "node2024",
+
+
+  "name": "nodejs2024git",
   "version": "1.0.0",
-  "description": "this is a test",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Zbjfei/nodejs2024git.git"
   },
+
   "keywords": [
     "js"
   ],
